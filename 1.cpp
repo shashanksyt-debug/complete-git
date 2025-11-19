@@ -6,5 +6,7 @@ int main() {
   cout << "Welcome to the project!!" << endl;
   cout << "Enter your name: ";
   cin >> name;
+
+  cout << "1st Enter the frontend code to the datbase and commit" << endl;
   return 0;
 }
